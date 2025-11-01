@@ -2,12 +2,12 @@
 
 ## Регистрация
 
-![Registration](/screenshots/step1.png)
+![Registration](/screenshots/1step.png)
 
 ## Логин
 
-![Login](/screenshots/step2.png)
+![Login](/screenshots/2step.png)
 
 ## Get Current User
 
-![Get User](/screenshots/step3.png)
+![Get User](/screenshots/3step.png)
